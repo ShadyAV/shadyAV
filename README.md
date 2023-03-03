@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning HTML, CSS, JS and React
 
 <div align="justify">
-    My name is Andrei and I am a Frontend Developer who enjoys working with web technologies. I am also eager to explore new technologies which I can use to solve real-world problems.
+    My name is Andrei and I am a Frontend Developer who enjoys working with web technologies. I am also eager to explore new technologies which I can use to solve problems.
 </div>
 
 <br/>
