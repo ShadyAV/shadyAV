@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on new projects for my portfolio
-- 🌱 I’m currently learning HTML, CSS, JS and React
+- 🌱 I’m currently learning HTML, CSS, JS, Angular and React
 
 <div align="justify">
     My name is Andrei and I am a Frontend Developer who enjoys working with web technologies. I am also eager to explore new technologies which I can use to solve problems.
